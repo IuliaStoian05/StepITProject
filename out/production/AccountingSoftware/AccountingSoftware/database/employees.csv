@@ -1,0 +1,13 @@
+Id,Name,Date of Birth, Gender, Phone Number, Position,Department,Immediate Superior,Employment Date, Salary
+1,Doru Ionescu,1970-05-07,M,0712345678, Software Engineer,IT,,2016-02-03,9800
+2,Ana Ionescu,1970-09-09,F,0743521678, Software Engineer,IT,,2020-08-03,9800
+3,Ion Alexe,1980-08-02,M,0712377890,HR Manager,HR,,2020-02-09,6800
+4,Ionel Ion,1990-06-01,M,0715467890,Sales Manager,SALES,,2018-02-09,7800
+5,Oana Andrei,1982-02-02,F,0712377890,Accountant,SALES,Ionel Ion,2019-02-09,4500
+6,Daniel Cristea,1989-02-11,M,0712377890,HR Manager,HR,,2020-07-09,6800
+7,Alina Marinescu,1990-10-02,F,0712377890,Assistant,HR,Daniel Cristea,2020-02-09,6800
+8,Marius Dobrescu,1994-12-12,M,0712377890,Web Designer,IT,,2020-12-09,8800
+9,Madalin Nicolae,1980-02-12,M,0712300890, Web Developer,IT,,2020-01-09,8800
+10,Victor Anasie,1970-03-02,M,0712377890,Accountant,SALES,Ionel Ion,2020-09-09,6800
+11,Dana Dan,2000-10-05,F,0767898706,Network Administrator,IT,,2019-03-11,3900
+12,Cristian Nitu,1990-03-08,M,0734567885,SQL Developer,IT,,2017-08-05,10000
